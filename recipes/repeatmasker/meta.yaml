@@ -1,10 +1,10 @@
 package:
     name: repeatmasker
-    version: 4.0.6
+    version: 4.0.7
 source:
-    fn:  RepeatMasker-open-4-0-6.tar.gz
-    url: http://www.repeatmasker.org/RepeatMasker-open-4-0-6.tar.gz
-    md5: 324bcb707b23b06adfde34704a8ec0c4
+    fn:  RepeatMasker-open-4-0-7.tar.gz
+    url: http://www.repeatmasker.org/RepeatMasker-open-4-0-7.tar.gz
+    md5: 4dcbd7c88c5343e02d819f4b3e6527c6
     patches:
       - patch1
 build:
